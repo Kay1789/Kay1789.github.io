@@ -1,0 +1,21 @@
+@font-face{font-family: newpaper; src: url("resources/fonts/Old\ Newspaper\ Font.ttf")}
+@font-face{font-family: pixel; src: url("resources/fonts/DeterminationSansWebRegular-369X.ttf")}
+
+
+body{
+    background-color: lightblue;
+    margin: auto;
+    padding: 2em;
+
+
+}
+
+p{
+    font-family: pixel;
+
+}
+
+h1{
+    font-family: newpaper;
+}
+
